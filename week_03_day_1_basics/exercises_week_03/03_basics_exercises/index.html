@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Basics Exercises</title>
+</head>
+<body>
+  
+  <script>
+
+
+
+  for (let line = '#'; line.length < 8; line += '#'){
+    console.log(line)
+  }
+
+
+
+
+
+
+
+
+
+  
+  for(let i = 1; i < 101; i++){
+    if(i % 3 == 0 && i % 5 == 0){
+      console.log('Fizzbuzz')
+    }else if( i % 3 == 0){
+      console.log('Fizz')
+    }else if( i % 5 == 0){
+      console.log('Buzz')
+    }else{
+      console.log(i)
+    }
+  }
+
+
+
+
+
+  
+  let size = 8;
+
+  let board = "";
+
+  for (let y = 0; y < size; y++) {
+    for (let x = 0; x < size; x++) {
+      if ((x + y) % 2 == 0) {
+        board += " ";
+      } else {
+        board += "#";
+      }
+    }
+    board += "\n";
+  }
+
+  console.log(board);
+
+  </script> 
+</body>
+</html>

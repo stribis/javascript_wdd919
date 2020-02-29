@@ -22,7 +22,12 @@ var students = ['luCa', 'rEZa', 'ChiN', 'meliSSA', 'NoAH'];
   - Remember to push each new word (every iteration to your new array)
 */
 
+var results = [];
 
+for ( var i = 0; i < students.length; i++){
+  var smallStudents = students[i].toLowerCase()
+  results.push(smallStudents[0].toUpperCase() + smallStudents.slice(1))
+}
 
 /**
  * 2.
@@ -49,3 +54,14 @@ var cities = ['MAN675847583748sjt567654;London',
   - Use indexOf to find the substring in the string, remember it is ALWAYS after a ';'
   - Then use slice to cut the substring out of the string and push it to the new array
 */
+
+var results1 = [];
+
+for (var i = 0; i < cities.length; i++) {
+  var word = cities[i].indexOf(';') + 1;
+  var city = cities[i].slice(word);
+
+  results1.push(city)
+}
+
+console.log(results1)
