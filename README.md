@@ -5,14 +5,14 @@
 ## Table of contents
 |Week   |Topics   |
 | ---   | ---   |
-|:one: Day 1 & 2|[Syntax, variables, data types...](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-1)|
-|:two: Day 1 & 2|[Alert, confirm, prompt arrays and strings...](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
-|:three: Day 1|[Functions, Objects, ...](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
-|:three: Day 2|[Console Methods, let & const, Template Strings/Literals ...](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
-|:four: Day 1|[Break/Continue, while, do while, forEach, Dom Manipulation Basics, click events ](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
-|:four: Day 2|[input values, more events, image gallery (start)](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
-|:five: Day 1|[image gallery (complete), coffee machine exercise with DOM manipulation](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
-|:five: Day 2|[Form Validation](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
+|:one: Day 1 & 2|[Syntax, variables, data types...](https://github.com/stribis/javascript_wdd919/tree/master/week_01_day_01_basics)|
+|:two: Day 1 & 2|[Alert, confirm, prompt arrays and strings...](https://github.com/stribis/javascript_wdd919/tree/master/week_02_day_01_basics)|
+|:three: Day 1|[Functions, Objects, ...](https://github.com/stribis/javascript_wdd919/tree/master/week_03_day_01_basics)|
+|:three: Day 2|[Console Methods, let & const, Template Strings/Literals ...](https://github.com/stribis/javascript_wdd919/tree/master/week_03_day_02_basics)|
+|:four: Day 1|[Break/Continue, while, do while, forEach, Dom Manipulation Basics, click events ](https://github.com/stribis/javascript_wdd919/tree/master/week_04_day_01_basics)|
+|:four: Day 2|[input values, more events, image gallery (start)](https://github.com/stribis/javascript_wdd919/tree/master/week_04_day_02_dom)|
+|:five: Day 1|[image gallery (complete), coffee machine exercise with DOM manipulation](https://github.com/stribis/javascript_wdd919/tree/master/week_05_day_01_dom)|
+|:five: Day 2|[Form Validation](https://github.com/stribis/javascript_wdd919/tree/master/week_05_day_02_dom/01_form_validation)|
 
 ---
 ### :calendar: Week 1
