@@ -3,10 +3,17 @@
 ##### :exclamation: Make sure you link the JS files to an HTML file to view in browser :exclamation:
 ---
 ## Table of contents
-|Week   |Link   |
+|Week   |Topics   |
 | ---   | ---   |
-|:one: Day 1|[Basics: Syntax, variables, data types...](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-1)|
-|:one: Day 2|[Basics: Alert, confirm, prompt arrays and strings...](hhttps://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
+|:one: Day 1 & 2|[Syntax, variables, data types...](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-1)|
+|:two: Day 1 & 2|[Alert, confirm, prompt arrays and strings...](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
+|:three: Day 1|[Functions, Objects, ...](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
+|:three: Day 2|[Console Methods, let & const, Template Strings/Literals ...](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
+|:four: Day 1|[Break/Continue, while, do while, forEach, Dom Manipulation Basics, click events ](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
+|:four: Day 2|[input values, more events, image gallery (start)](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
+|:five: Day 1|[image gallery (complete), coffee machine exercise with DOM manipulation](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
+|:five: Day 2|[Form Validation](https://github.com/stribis/javascript_wdd919#calendar-week-1-day-2)|
+
 ---
 ### :calendar: Week 1
 #### Part 1
@@ -74,4 +81,17 @@
 
 #### Day 2
 * :notebook: Lesson
-  1. More Events
+  1. Studied input values
+  2. More Events
+  3. Started Image Gallery
+  
+---
+### :calendar: Week 5
+#### Day 1
+* :notebook: Lesson
+  1. Completed the Coffee Machine using DOM Manipulation
+  2. Completed the image gallery
+
+#### Day 2
+* :notebook: Lesson
+  1. We checked form validation with JS
