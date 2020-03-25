@@ -1,0 +1,20 @@
+/* === Small CSS Reset === */
+*{
+  margin: 0;
+  padding: 0;
+}
+*, *::after, *::before{
+  box-sizing: border-box;
+}
+
+body{
+  background: url('img/e81f4adbeffe2d927e34e8f1fb882510.jpg');
+  background-size: cover;
+}
+
+div{
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+  align-items: center;
+}

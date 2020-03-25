@@ -13,6 +13,7 @@
 |:four: Day 2|[input values, more events, image gallery (start)](https://github.com/stribis/javascript_wdd919/tree/master/week_04_day_02_dom)|
 |:five: Day 1|[image gallery (complete), coffee machine exercise with DOM manipulation](https://github.com/stribis/javascript_wdd919/tree/master/week_05_day_01_dom)|
 |:five: Day 2|[Form Validation](https://github.com/stribis/javascript_wdd919/tree/master/week_05_day_02_dom/01_form_validation)|
+|:six: Day 1|[more events and dom, random, innerWidth/Height, load events](https://github.com/stribis/javascript_wdd919/tree/master/week_06_day_01_dom)|
 
 ---
 ### :calendar: Week 1
@@ -95,3 +96,15 @@
 #### Day 2
 * :notebook: Lesson
   1. We checked form validation with JS
+
+---
+### :calendar: Week 6
+#### Day 1
+* :notebook: Lesson
+  1. Repetition Exercise: Click a circle which creates squares with different background colors
+    * Used the `Math.random` function
+    * Reviewed `window.innerWidth` / `innerHeight`
+  2. Reviewed loading events in JS
+    * `onload`
+    * `DOMContentLoaded`
+    * `defer`

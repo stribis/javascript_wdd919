@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>My Website</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" media="screen" href="style.css">
+
+  <!-- 
+    Remember to checkout the performance tab in the developer tools to check out which scripts were executed first
+    Additionally you can check out the console which will display the logs as they were executed by the scripts
+  -->
+  <script src="js/onDomContentLoaded.js"></script>
+  <script src="js/nothing.js"></script>
+  <script src="js/defered.js" defer></script>
+  <script src="js/onload.js"></script>
+  
+  <!-- Scripts will execute in the following order  -->
+  <!-- 
+    1. Nothing
+      -> Will give us an error because it will not have access to the DOM
+    2. Defered
+    3. onDOMContentLoaded
+    4. window.onload
+   -->
+
+</head>
+<body>
+  <div>
+    <img src="img/giphy2.gif" alt="some image">
+    <img src="img/giphy3.gif" alt="some image">
+    <img src="img/giphy4.gif" alt="some image">
+  </div>
+
+</body>
+</html>
