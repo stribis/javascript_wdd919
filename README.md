@@ -14,6 +14,7 @@
 |:five: Day 1|[image gallery (complete), coffee machine exercise with DOM manipulation](https://github.com/stribis/javascript_wdd919/tree/master/week_05_day_01_dom)|
 |:five: Day 2|[Form Validation](https://github.com/stribis/javascript_wdd919/tree/master/week_05_day_02_dom/01_form_validation)|
 |:six: Day 1|[more events and dom, random, innerWidth/Height, load events](https://github.com/stribis/javascript_wdd919/tree/master/week_06_day_01_dom)|
+|:six: Day 2|[Todo List app using localstorage and JSON](https://github.com/stribis/javascript_wdd919/tree/master/week_06_day_02_dom)|
 
 ---
 ### :calendar: Week 1
@@ -108,3 +109,18 @@
     * `onload`
     * `DOMContentLoaded`
     * `defer`
+
+
+#### Day 2
+* :notebook: Lesson
+  1. Local Storage
+    * Adding items to and getting items from `localstorage`
+      * `getData()`
+      * `setData()`
+      * JSON
+        * .parse() & .stringify()
+    * Implementing `localstorage` into a todo list
+    * Ternary operator
+    * `classList.contains()`
+* :hammer_and_wrench: Exercise
+  1. Simple Todo List without localstorage 
